@@ -13,6 +13,11 @@ const questions = [
   },
   {
     type: "input",
+    message: "How can the repo be used?",
+    name: "usage"
+  },
+  {
+    type: "input",
     message: "What is your repo called?",
     name: "title"
   },
